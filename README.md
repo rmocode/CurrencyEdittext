@@ -28,7 +28,7 @@ allprojects {
 ```gradle
 
 dependencies {
-      implementation 'com.github.umutsoysl:CurrencyEdittext:1.0.1'
+      implementation 'com.github.rmocode:CurrencyEdittext:1.0.1'
 }
 	
 ```
